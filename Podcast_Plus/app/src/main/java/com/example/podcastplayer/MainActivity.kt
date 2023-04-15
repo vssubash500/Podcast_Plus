@@ -77,7 +77,7 @@ fun playAudio(context: Context) {
                     .height(250.dp)
             )
             {
-                val mp: MediaPlayer = MediaPlayer.create(context, R.raw.audio)
+//                val mp: MediaPlayer = MediaPlayer.create(context, R.raw.audio)
 
                 Column(
                     modifier = Modifier.fillMaxSize(),
@@ -129,7 +129,7 @@ fun playAudio(context: Context) {
                     .height(250.dp)
             )
             {
-                val mp: MediaPlayer = MediaPlayer.create(context, R.raw.audio_1)
+//                val mp: MediaPlayer = MediaPlayer.create(context, R.raw.audio_1)
 
                 Column(
                     modifier = Modifier.fillMaxSize(),
@@ -340,7 +340,7 @@ fun playAudio(context: Context) {
                     .height(250.dp)
             )
             {
-                val mp: MediaPlayer = MediaPlayer.create(context, R.raw.audio_5)
+//                val mp: MediaPlayer = MediaPlayer.create(context, R.raw.audio_5)
 
                 Column(
                     modifier = Modifier.fillMaxSize(),
